@@ -1,5 +1,5 @@
 {
-  "name": "resume",
+  "name": "cv",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -9,6 +9,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.6.1"
+    "astro": "^5.6.1",
+    "hotkeypad": "^1.0.1"
   }
 }
